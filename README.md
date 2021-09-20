@@ -1,2 +1,3 @@
 # kickstart-analysis
 Preforming analysis on Kickstarter data to uncover trends
+edit read me
