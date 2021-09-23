@@ -12,7 +12,7 @@
 	-First I populated a column using the =YEAR() function to pull the year from each date on the launch date column.
 	-Then I created a pivot table using outcomes for the columns, date created for the rows, and count of outcomes for the values. I filtered the table by the theater parent category.
 	-Last I produced a chart of the resulting table with count of outcomes on the y axis and months on the x axis.
-[Outcomes Based on Launch Date Chart](https://user-images.githubusercontent.com/90660790/134459803-a3358019-a66e-40d9-9629-3a3ff518ccdb.png)
+![Outcomes Based on Launch Date Chart](https://user-images.githubusercontent.com/90660790/134459803-a3358019-a66e-40d9-9629-3a3ff518ccdb.png)
 
 ### Outcomes Based on Goals
 	-I created a new worksheet
@@ -21,7 +21,7 @@
 	- A total projects column was created and populated with the SUM() function for each donation goal range.
 	- Using this total projects column I was able to create percentages for each donation category by dividing the number in a cell populated with the COUNTIFS function by its corresponding total projects value.
 	- Finally I made a chart with these percentages one the y axis with the donation goal ranges on the x axis 
-[Parent Category lesson chart](https://user-images.githubusercontent.com/90660790/134459822-fede5648-2fe9-4e17-9ba1-bfca4358b002.png)
+![Parent Category lesson chart](https://user-images.githubusercontent.com/90660790/134459822-fede5648-2fe9-4e17-9ba1-bfca4358b002.png)
 
 ### Challenges and Difficulties Encountered
 
